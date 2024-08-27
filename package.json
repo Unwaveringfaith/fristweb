@@ -1,0 +1,19 @@
+{
+  "name": "fullstack-backend-zero",
+  "version": "1.0.0",
+  "description": "full stack backend",
+  "main": "first.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node first.js"
+  },
+  "keywords": [
+    "nodejs",
+    "react"
+  ],
+  "author": "giabao",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.18.2"
+  }
+}
